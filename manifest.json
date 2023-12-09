@@ -1,11 +1,11 @@
 {
-    "name": "cis_attendance",
-    "short_name": "cis_attendance",
+    "name": "ScanGrad",
+    "short_name": "ScanGrad",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Manage students attendance and their degrees by easy and fast way",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
