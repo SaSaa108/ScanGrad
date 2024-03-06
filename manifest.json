@@ -1,11 +1,11 @@
 {
-    "name": "ScanGrad",
-    "short_name": "ScanGrad",
+    "name": "Academe",
+    "short_name": "Academe web application",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Manage students attendance and their degrees by easy and fast way",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
